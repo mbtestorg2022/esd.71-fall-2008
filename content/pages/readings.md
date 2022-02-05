@@ -17,39 +17,463 @@ Readings by Session
 
 The following table shows the schedule of readings from _Applied Systems Analysis_.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Introduction to course**{{< /td-colspan >}} |||
-| L1 | Motivation: paradigm shift from best outcome to moving distribution of outcomes to right | &nbsp; |
-| {{< td-colspan 3 >}}**Part 1: basics, recognition of uncertainty, valuation fundamentals, and timing issues**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Conventional valuation and recognition of uncertainty**{{< /td-colspan >}} |||
-| L2 |  {{< br >}}{{< br >}} Discounted cash flow and present value {{< br >}}{{< br >}} Criteria for valuation {{< br >}}{{< br >}}  | Chapters 10, 11, 13 |
-| L3 | Uncertainty recognition | &nbsp; |
-| L4 |  {{< br >}}{{< br >}} Choice of discount rate {{< br >}}{{< br >}} Opportunity cost, weighted average cost of capital, capital asset pricing model {{< br >}}{{< br >}}  | Chapter 12 |
-| {{< td-colspan 3 >}}**Timing of development**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Basic issue: build now or later?**{{< /td-colspan >}} |||
-| L5 |  {{< br >}}{{< br >}} Asphalt vs. concrete highways {{< br >}}{{< br >}} Basic system model: production function, economies of scale {{< br >}}{{< br >}}  | Chapter 2 |
-| L6 | Optimum expansion size deterministic case | &nbsp; |
-| L7 |  {{< br >}}{{< br >}} Determining economies of scale from cost function {{< br >}}{{< br >}} Constrained optimization and marginal analysis {{< br >}}{{< br >}}  | &nbsp; |
-| L8 |  {{< br >}}{{< br >}} Sources of flexibility {{< br >}}{{< br >}} "On" systems-timing {{< br >}}{{< br >}} "In" systems-timing and function {{< br >}}{{< br >}} Case examples {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Part 2: uncertainty modeling and flexibility valuation methods**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Decision analysis**{{< /td-colspan >}} |||
-| L9 | Uncertainty assessment | Chapter 15 |
-| L10 |  {{< br >}}{{< br >}} Primitive models {{< br >}}{{< br >}} Introduction to decision analysis {{< br >}}{{< br >}}  | Chapter 16 |
-| L11 |  {{< br >}}{{< br >}} Practical issues {{< br >}}{{< br >}} Solutions by "folding back" {{< br >}}{{< br >}} Flaw of averages {{< br >}}{{< br >}}  | &nbsp; |
-| L12 |  {{< br >}}{{< br >}} Distribution of outcomes for decision analysis {{< br >}}{{< br >}} Value at risk and gain, multiple value metrics {{< br >}}{{< br >}}  | &nbsp; |
-| L13 | Benefits of waiting: value of information | Chapter 17 |
-| L14 | Decision analysis examples: oil platform, wind energy, silicon wafer plant, Tokyo/Haneda runway | &nbsp; |
-| L15 | Mid-semester review | &nbsp; |
-| L16 | Midterm exam | &nbsp; |
-| {{< td-colspan 3 >}}**Lattice analysis**{{< /td-colspan >}} |||
-| L17 |  {{< br >}}{{< br >}} Lattice model to represent uncertainty {{< br >}}{{< br >}} Regression to determine trend and variability (μ and σ) {{< br >}}{{< br >}}  | &nbsp; |
-| L18 | Dynamic programming: systematic solution by "folding back" | Chapter 7 |
-| L19 |  {{< br >}}{{< br >}} Valuation of lattice by dynamic programming {{< br >}}{{< br >}} Satellite case study {{< br >}}{{< br >}}  | &nbsp; |
-| L20 |  {{< br >}}{{< br >}} Combining lattice and decision analysis {{< br >}}{{< br >}} Case studies: aqua line tunnel {{< br >}}{{< br >}}  | &nbsp; |
-| L21 | Conceptual valuation and application | &nbsp; |
-| L22 | Comparing decision analysis and lattice analysis | &nbsp; |
-| L23 |  {{< br >}}{{< br >}} Definition and analysis of "hotspots" using change propagation analysis {{< br >}}{{< br >}} Path dependency {{< br >}}{{< br >}} Comments on draft application portfolio {{< br >}}{{< br >}} Case studies: car platforms, hydroelectric dam, mini unmanned aerial vehicle {{< br >}}{{< br >}}  | &nbsp; |
-| L24 | Perspective on flexibility in design and real options analysis (Part 1) | &nbsp; |
-| L25 | Perspective on flexibility in design and real options analysis (Part 2) | &nbsp; |
-| L26 | Review for final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Introduction to course**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Motivation: paradigm shift from best outcome to moving distribution of outcomes to right
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: basics, recognition of uncertainty, valuation fundamentals, and timing issues**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Conventional valuation and recognition of uncertainty**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discounted cash flow and present value
+
+Criteria for valuation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 10, 11, 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Uncertainty recognition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Choice of discount rate
+
+Opportunity cost, weighted average cost of capital, capital asset pricing model
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Timing of development**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Basic issue: build now or later?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Asphalt vs. concrete highways
+
+Basic system model: production function, economies of scale
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Optimum expansion size deterministic case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Determining economies of scale from cost function
+
+Constrained optimization and marginal analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sources of flexibility
+
+"On" systems-timing
+
+"In" systems-timing and function
+
+Case examples
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2: uncertainty modeling and flexibility valuation methods**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Decision analysis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Uncertainty assessment
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Primitive models
+
+Introduction to decision analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Practical issues
+
+Solutions by "folding back"
+
+Flaw of averages
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Distribution of outcomes for decision analysis
+
+Value at risk and gain, multiple value metrics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Benefits of waiting: value of information
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Decision analysis examples: oil platform, wind energy, silicon wafer plant, Tokyo/Haneda runway
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-semester review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Lattice analysis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lattice model to represent uncertainty
+
+Regression to determine trend and variability (μ and σ)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic programming: systematic solution by "folding back"
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Valuation of lattice by dynamic programming
+
+Satellite case study
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Combining lattice and decision analysis
+
+Case studies: aqua line tunnel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Conceptual valuation and application
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Comparing decision analysis and lattice analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Definition and analysis of "hotspots" using change propagation analysis
+
+Path dependency
+
+Comments on draft application portfolio
+
+Case studies: car platforms, hydroelectric dam, mini unmanned aerial vehicle
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Perspective on flexibility in design and real options analysis (Part 1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Perspective on flexibility in design and real options analysis (Part 2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Review for final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
