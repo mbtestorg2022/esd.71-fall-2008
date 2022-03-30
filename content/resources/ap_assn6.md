@@ -4,6 +4,7 @@ description: Part 6 of the Application Portfolio Assignment on decision analysis
   a lattice of probabilities and states.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/d0f569828a4d242800a64973b71f6c5a_ap_assn6.pdf
 file_type: application/pdf
+parent_uid: 549db3c7-330e-b0d5-d5b3-218a8dca6dff
 resourcetype: Document
 title: "Application Portfolio Assignment \u2013 Part 6"
 uid: d0f56982-8a4d-2428-00a6-4973b71f6c5a
